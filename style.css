@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+:root {
+    --whiteColor: #ffffff;
+}
+
+a,
+a:hover {
+    text-decoration: none !important;
+}
+
+img {
+    max-width: 100%;
+}
+
+#not_found {
+    text-align: center;
+    color: red;
+}
+
+.table {
+    margin-bottom: 0 !important;
+}
+
+.featured-item .featured-item-img {
+    transition: 0.3s linear;
+}
+
+.featured-item .featured-item-img a img:hover {
+    scale: 1.08;
+}
+
+.border-4 {
+    border: 4px solid var(--whiteColor);
+}

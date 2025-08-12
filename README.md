@@ -19,6 +19,7 @@ Add products to the cart, change quantities, remove items, and clear the entire 
 
 ---
 
+```
 ## 📁 Project structure
 shopping-cart/
 ├── index.html # main page
@@ -28,6 +29,7 @@ shopping-cart/
 ├── products.js # product data (exported array)
 ├── assets/ # images, GIFs, screenshots 
 └── README.md # description
+```
 
 ## 🚀 Live Demo
 ![Live Demo](./assets/demo.gif)
